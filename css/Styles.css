@@ -39,13 +39,18 @@ h6{
 }
 
 a{
-  background-color: #11999E;
+  margin-top: 20px;
+  color: #E4F9F5;
   font-family: Montez, Montserrat;
   margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+color: blue;
 }
 
 .top-gamer {
-font: #E4F9F5;
 size: 100%;
 padding-top: 100px;
 padding-left: 100px;
