@@ -90,6 +90,11 @@ margin: 100px auto 100px auto;
   width: 25%;
 }
 
+.bottom-container{
+  background-color: cyan;
+  margin-bottom: 0;
+}
+
 .BUTTON_OVY {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
