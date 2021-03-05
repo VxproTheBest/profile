@@ -1,8 +1,8 @@
 body {
   margin: 0;
 text-align: center;
-font-family:   Sacramento,sans-serif;
-background-color:#E4F9F5 ;
+font-family: Sacramento,sans-serif;
+background-color:#97f1e0;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h6{
 }
 
 .top-gamer {
-color: #AFEDEE ;
+background-color: #E4F9F5;
 size: 100%;
 padding-top: 100px;
 padding-left: 100px;
