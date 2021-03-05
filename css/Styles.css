@@ -38,8 +38,14 @@ h6{
   font-family: Montez, Montserrat;
 }
 
+a{
+  background-color: #11999E;
+  font-family: Montez, Montserrat;
+  margin: 10px 20px;
+}
+
 .top-gamer {
-background-color: #E4F9F5;
+font: #E4F9F5;
 size: 100%;
 padding-top: 100px;
 padding-left: 100px;
